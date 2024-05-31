@@ -2,6 +2,7 @@ package org.example;
 
 import java.util.List;
 import java.util.Optional;
+// Experimental API
 import java.util.stream.Gatherers;
 import java.util.stream.Stream;
 
